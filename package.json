@@ -1,0 +1,35 @@
+{
+  "name": "ckeditor5-extended",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estinca/ckeditor5-extended.git"
+  },
+  "author": "estinca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estinca/ckeditor5-extended/issues"
+  },
+  "homepage": "https://github.com/estinca/ckeditor5-extended#readme",
+  "dependencies": {
+    "@ckeditor/ckeditor5-basic-styles": "^11.1.3",
+    "@ckeditor/ckeditor5-dev-utils": "^12.0.5",
+    "@ckeditor/ckeditor5-editor-classic": "^12.1.3",
+    "@ckeditor/ckeditor5-essentials": "^11.0.4",
+    "@ckeditor/ckeditor5-heading": "^11.0.4",
+    "@ckeditor/ckeditor5-list": "^12.0.4",
+    "@ckeditor/ckeditor5-paragraph": "^11.0.4",
+    "@ckeditor/ckeditor5-theme-lark": "^14.1.1",
+    "postcss-loader": "^3.0.0",
+    "raw-loader": "^1.0.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
