@@ -39,6 +39,12 @@ export default class AlertEditing extends Plugin {
 
         });
 
+        schema.addChildCheck((context, childDefinition) => {
+            if (context.endsWith('alertContent') && childDefinition.name == 'alert') {
+                return false;
+            }
+        });
+
     }
 
     _defineConverters() { // ADDED

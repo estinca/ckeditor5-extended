@@ -1,5 +1,6 @@
 import Plugin from "@ckeditor/ckeditor5-core/src/plugin";
 import ButtonView from '@ckeditor/ckeditor5-ui/src/button/buttonview';
+import AlertIcon from '../../assets/img/alert.svg';
 
 export default class AlertUI extends Plugin {
     init() {
@@ -20,9 +21,9 @@ export default class AlertUI extends Plugin {
             buttonView.set({
                 // The t() function helps localize the editor. All strings enclosed in t() can be
                 // translated and change when the language of the editor changes.
-                label: t('Alert'),
+                icon: AlertIcon,
                 withText: true,
-                tooltip: true
+                tooltip: t('Alert')
             });
 
             // Bind the state of the button to the command.

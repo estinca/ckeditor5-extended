@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: http://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="184.32pt"
+    height="184.32pt"
+    viewBox="0 0 184.32 184.32">
+<defs>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0.571014492753622" y1="0.479646017699115" x2="0.063880208601485" y2="0.543362831858407" spreadMethod="pad">
+   <stop stop-color="#000000" offset="0.0194805194805195" stop-opacity="1"/>
+   <stop stop-color="#222020" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1.4142135623731" y2="0" spreadMethod="pad">
+   <stop stop-color="#000000" offset="0" stop-opacity="1"/>
+   <stop stop-color="#000000" offset="1" stop-opacity="0"/>
+  </linearGradient>
+ </defs>
+<path id="shape0" transform="translate(8.58765578800308, 21.24)" fill="#222020" fill-rule="evenodd" stroke="#222020" stroke-width="1.656" stroke-linecap="square" stroke-linejoin="bevel" d="M0 11.0924L77.5051 0L77.76 141.84L0 132.88Z"/><path id="shape1" transform="translate(86.0407531334782, 20.2472403533281)" fill="url(#gradient0)" fill-rule="evenodd" stroke="url(#gradient1)" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L87.8227 40.9839L87.8227 102.332L0 143.826C0 143.826 0 95.8837 0 0Z"/><path id="shape2" transform="translate(86.0407533546415, 22.9102597689874)" fill="#222020" fill-rule="evenodd" stroke="#ffffff" stroke-width="4.32" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0.763675 139.243"/>
+</svg>
