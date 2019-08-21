@@ -1,1 +1,5 @@
 @import "./plugins/simplebox/simplebox.css";
+
+.text-x-huge {
+    font-size: 2em;
+}
